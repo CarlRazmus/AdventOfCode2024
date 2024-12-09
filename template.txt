@@ -1,0 +1,12 @@
+def puzzle_1():
+    pass
+
+
+def puzzle_2():
+    pass
+
+
+if __name__ == '__main__':
+    with open("input.txt") as file:
+        puzzle_1()
+        puzzle_2()
